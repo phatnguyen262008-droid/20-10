@@ -93,7 +93,7 @@ const PROFILES_DB = {
       typingSpeedMs: 42,
     },
     audio: {
-      src: './audio/nhac01.mp3',
+      src: 'nhac01.mp3',
       volume: 0.65,
     },
     gallery: [
@@ -143,7 +143,7 @@ const PROFILES_DB = {
       typingSpeedMs: 42,
     },
     audio: {
-      src: './audio/nhac02.mp3',
+      src: 'nhac02.mp3',
       volume: 0.65,
     },
     gallery: [
@@ -192,7 +192,7 @@ const PROFILES_DB = {
       typingSpeedMs: 38,
     },
     audio: {
-      src: './audio/nhac03.mp3',
+      src: 'nhac03.mp3',
       volume: 0.65,
     },
     gallery: [
@@ -241,7 +241,7 @@ const PROFILES_DB = {
       typingSpeedMs: 38,
     },
     audio: {
-      src: './audio/nhac03.mp3',
+      src: 'nhac03.mp3',
       volume: 0.65,
     },
     gallery: [
@@ -290,7 +290,7 @@ const PROFILES_DB = {
       typingSpeedMs: 34,
     },
     audio: {
-      src: './audio/nhac05.mp3',
+      src: 'nhac05.mp3',
       volume: 0.7,
     },
     gallery: [
@@ -339,7 +339,7 @@ const PROFILES_DB = {
       typingSpeedMs: 34,
     },
     audio: {
-      src: './audio/nhac05.mp3',
+      src: 'nhac05.mp3',
       volume: 0.7,
     },
     gallery: [
@@ -388,7 +388,7 @@ const PROFILES_DB = {
       typingSpeedMs: 35,
     },
     audio: {
-      src: './audio/nhac05.mp3',
+      src: 'nhac05.mp3',
       volume: 0.65,
     },
     gallery: [
